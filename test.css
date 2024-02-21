@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body {
+    background-color: black;
+    
+}
+h1 {
+    padding-left: 40%;
+    color: red;
+}
+#rav4 {
+    width: 100%;
+
+}
+p {
+    color: aliceblue;
+    font-family:monospace;
+    font-style:oblique;
+}
+#corolla {
+    width: 100%;
+}
+ul {
+    margin:auto;
+    
+    color: aliceblue;
+    justify-content:space-between;
+    margin:0;
+    padding: 0;
+    
+}
+li {
+    float:right;
+    justify-content:space-between;
+    position:relative;
+    list-style-type: none;
+}
+
+a {
+    display: block;
+    padding:30px;
+    text-decoration: none;
+    color:aliceblue;
+    
+}
+nav:hover {
+    background-color:rgb(91, 79, 91);
+    transition: 2s;
+
+
+
+}
+li a:hover {
+    color:black;
+    transition: 2s;
+}
+#logo {
+    position:relative;
+}
+nav {
+    padding: 10px;
+}
+
